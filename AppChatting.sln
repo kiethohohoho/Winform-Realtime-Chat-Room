@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGSclientUDP", "SGSclientUDP\SGSclientUDP.csproj", "{993DC9A6-D55C-43D5-AE42-BC6A211A648F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGSserverUDP", "SGSserverUDP\SGSserverUDP.csproj", "{5A1D0EB4-5F8E-4DE3-B500-7FE30F11275C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993DC9A6-D55C-43D5-AE42-BC6A211A648F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993DC9A6-D55C-43D5-AE42-BC6A211A648F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993DC9A6-D55C-43D5-AE42-BC6A211A648F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993DC9A6-D55C-43D5-AE42-BC6A211A648F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1D0EB4-5F8E-4DE3-B500-7FE30F11275C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1D0EB4-5F8E-4DE3-B500-7FE30F11275C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1D0EB4-5F8E-4DE3-B500-7FE30F11275C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1D0EB4-5F8E-4DE3-B500-7FE30F11275C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C932C8-CA29-4EA3-B87D-5EC9E0275F8B}
+	EndGlobalSection
+EndGlobal

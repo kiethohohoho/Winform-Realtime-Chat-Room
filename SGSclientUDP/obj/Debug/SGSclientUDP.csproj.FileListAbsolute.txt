@@ -1,0 +1,32 @@
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.exe.config
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.exe
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.pdb
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclient.LoginForm.resources
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.Properties.Resources.resources
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclient.SGSClient.resources
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.exe
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.exe.config
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\bin\Debug\SGSclientUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.AssemblyReference.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclient.LoginForm.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.Properties.Resources.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclient.SGSClient.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSclientUDP\obj\Debug\SGSclientUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\bin\Debug\SGSclientUDP.exe.config
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\bin\Debug\SGSclientUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\bin\Debug\SGSclientUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.AssemblyReference.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclient.LoginForm.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.Properties.Resources.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclient.SGSClient.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.GenerateResource.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\AppChatting\SGSclientUDP\obj\Debug\SGSclientUDP.pdb

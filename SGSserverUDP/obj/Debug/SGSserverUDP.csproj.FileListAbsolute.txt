@@ -1,0 +1,19 @@
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.exe.config
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.exe
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.pdb
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.Properties.Resources.resources
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\Server.SGSserverForm.resources
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.exe
+D:\2021-2022\lập trình mạng\baitap\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.exe.config
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\bin\Debug\SGSserverUDP.pdb
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.csproj.AssemblyReference.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.Properties.Resources.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\Server.SGSserverForm.resources
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.csproj.GenerateResource.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.exe
+D:\LapTrinhMang\35_1951120099_LeTanKiet_BaiTap05\UDP\SGSserverUDP\obj\Debug\SGSserverUDP.pdb
